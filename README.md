@@ -142,6 +142,7 @@ Project Link: [Quizy](https://github.com/vladiiii/Quizy)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Pages](https://pages.github.com)
+* [othneildrew README](https://github.com/othneildrew/Best-README-Template)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
