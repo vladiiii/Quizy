@@ -4,7 +4,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -153,6 +152,4 @@ Project Link: [Quizy](https://github.com/vladiiii/Quizy)
 [issues-url]: https://github.com/vladiiii/Quizy/issues
 [license-shield]: https://img.shields.io/github/license/vladiiii/Quizy.svg?style=for-the-badge
 [license-url]: https://github.com/vladiiii/Quizy/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
